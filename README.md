@@ -12,7 +12,7 @@ Each section focuses on a crucial step in the machine learning workflow, providi
 - [**Feature Engineering**](./Feature%20Engineering)  
   Techniques to transform raw data into features that enhance model performance, including feature scaling, encoding, and selection.
 
-- [**Linear Regression Practice**](./Linear%20Regression)  
+- [**Linear Regression**](./Linear%20Regression)  
   Practice exercises focused on building Linear Regression models, exploring relationships between variables, and evaluating model performance metrics.
   Dataset used: Height-Weights, Economical Index
 - [**Ridge and Lasso Regression**](./Ridge%20Lasso%20Regression)  
