@@ -1,7 +1,7 @@
 # Complete Machine Learning Bootcamp
 
 ## Overview
-This repository contains practice files from Complete ML Bootcamp by Krish Naik.
+This repository contains practice files from Complete ML Bootcamp by [Krish Naik](https://www.youtube.com/channel/UCNU_lfiiWBdtULKOw6X0Dig).
 Each section focuses on a crucial step in the machine learning workflow, providing hands-on practice with real-world datasets and scenarios.
 
 ## Contents
