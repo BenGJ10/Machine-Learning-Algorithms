@@ -39,6 +39,4 @@ Each section dives into a core machine learning concept or algorithm, combining 
 - [**Principal Component Analysis (PCA)**](./Principal%20Component%20Analysis)  
   A technique to reduce the number of features while retaining the most important information. PCA transforms correlated variables into a smaller set of uncorrelated components.
 
-- [**Natural Language Processing (NLP)**](./Natural%20Language%20Processing)  
-  Apply ML to human language. This section covers tokenization, text vectorization (TF-IDF, Bag of Words), and basic NLP workflows for sentiment analysis and classification.
 
